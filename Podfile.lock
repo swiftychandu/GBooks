@@ -1,0 +1,20 @@
+PODS:
+  - SCLAlertView (0.8)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - SCLAlertView
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - SCLAlertView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 1982c3d003bfbd365d5423fd8ae232e344037173
+
+COCOAPODS: 1.9.1
